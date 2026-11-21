@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+/results/*
+!/results/wind_tree_comparison/
+!/results/tree_fusion_comparison/
+!/results/sensor_characterisation/
+/reference_results/
